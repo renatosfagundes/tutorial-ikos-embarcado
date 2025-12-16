@@ -26,7 +26,7 @@ Este projeto tem como objetivo demonstrar o uso do IKOS (Inference Kernel for Op
    ```
 3. Analise os arquivos de exemplo em `src-ikos-examples/` usando o comando:
    ```bash
-   ikos src-ikos-examples/<arquivo>.c
+   ikos <arquivo>.c
    ```
 4. Gere relatórios (quando possível) com:
    ```bash
@@ -62,4 +62,5 @@ Cada arquivo contém vulnerabilidades típicas de sistemas embarcados e automoti
 - IKOS Official Documentation: https://github.com/NASA-SW-VnV/ikos
 - MISRA C:2012 Guidelines: https://www.misra.org.uk
 - ISO 26262 - Road Vehicles Functional Safety
+
 - Docker Documentation: https://docs.docker.com
